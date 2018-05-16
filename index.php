@@ -9,7 +9,7 @@
 <!-- Head -->
 <head>
 <body>
-    <h1>BAWWWLLZZ</h1>
+    <h1>Hellow World!</h1>
 	</body>
 	<!-- //Body -->
 </html>
